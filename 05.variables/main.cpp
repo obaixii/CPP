@@ -99,7 +99,7 @@ int main()
     mc.mutableVar = 300; // allowed due to 'mutable' keyword
 
     // Print out some of the variables to avoid unused variable warnings
-    cout << "Integer a:asasa " << a << endl;
+    cout << "Integer a: " << a << endl;
     cout << "Character f: " << f << endl;
     cout << "Boolean o: " << o << endl;
     cout << "Array element: " << arr[0] << endl;
